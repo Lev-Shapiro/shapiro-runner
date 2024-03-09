@@ -1,0 +1,7 @@
+fact c is 5
+
+render(c)
+
+actually c is 10
+
+render(c)
